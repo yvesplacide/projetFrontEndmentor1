@@ -1,0 +1,22 @@
+{
+  "name": "exofrontend",
+  "version": "1.0.0",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yvesplacide/projetFrontEndmentor1.git"
+  },
+  "author": "Yves Placide",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yvesplacide/projetFrontEndmentor1/issues"
+  },
+  "homepage": "https://github.com/yvesplacide/projetFrontEndmentor1#readme",
+  "description": "",
+  "dependencies": {
+    "tailwindcss": "^4.0.6"
+  }
+}
